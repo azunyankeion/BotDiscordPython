@@ -1,2 +1,2 @@
 # BotDiscordPython
-Aqui está disponível GRATUITAMENTE, um bot de discord feito em python, saiba que, terá que criar seu bot como aplicação, e utilizar seu próprio token, e lembrando, é um bot básico, não se utiliza Cogs nem slash commands nele, também tem poucos comandos, apenas 4, mas irei melhorando ele com o tempo, não utilizarei embeds nos bans e no kicks, caso queira um bot bem mais avançado, será pago!
+Aqui está disponível GRATUITAMENTE, um bot de discord feito em python, avançado, com Cogs, slash commands, otimizado, change_presence, por favor, caso for fazer algo baseado nisso, faça, mas que se PUDER, avise no meu discord: 𝒁SŦȺɌŦ叛#7359
